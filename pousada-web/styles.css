@@ -1,0 +1,27 @@
+.nav{
+    margin: 0 100px;
+    
+}
+
+.titulo span{
+    color: blue;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-link a{
+    text-decoration: none;
+    color: black;
+    margin-left: 24px;
+}
+
+.container-principal{
+    width: 100%;
+    height: 100%;
+    background-image: url('./assets/img-fundo.jpg');
+}
+
